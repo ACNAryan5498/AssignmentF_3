@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_home"
+        android:title=""
+        android:icon="@drawable/ic_home_black_24dp" />
+
+    <item
+        android:id="@+id/menu_search"
+        android:title=""
+        android:icon="@drawable/ic_search_black_24dp" />
+
+    <item
+        android:id="@+id/menu_date_picker"
+        android:title=""
+        android:icon="@drawable/ic_date_range_black_24dp" />
+
+    <item
+        android:id="@+id/menu_bookmark"
+        android:title=""
+        android:icon="@drawable/ic_bookmark_border_black_24dp" />
+
+</menu>
